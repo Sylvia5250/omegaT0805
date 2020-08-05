@@ -4,6 +4,22 @@
   <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="EN-GB"/>
   <body>
 <!-- Default translations -->
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>Does a “scientific” approach to the writing of technical sentences, paragraphs,  and arguments exist?</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="62520" changedate="20200805T033659Z" creationid="62520" creationdate="20200805T033659Z">
+        <seg>是否存在一个组织技术文章句子、段落的“科学方法”？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>If the answer to this question is  yes, as I believe it is, then one more question arises: 2.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="62520" changedate="20200805T033715Z" creationid="62520" creationdate="20200805T033715Z">
+        <seg>如果和我想的一样，答案是“存在”，那么就有另外一个问题： 2.</seg>
+      </tuv>
+    </tu>
 <!-- Alternative translations -->
   </body>
 </tmx>
